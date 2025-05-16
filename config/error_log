@@ -1,0 +1,36 @@
+[19-Feb-2025 21:25:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/improve.escrow.icu/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/improve.escrow.icu/config/services.php on line 18
+[19-Feb-2025 21:26:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/improve.escrow.icu/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/improve.escrow.icu/config/services.php on line 18
+[28-Feb-2025 11:36:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/improve.escrow.icu/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/improve.escrow.icu/config/cache.php on line 18
+[22-Apr-2025 10:32:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/app.escrow.icu/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/app.escrow.icu/config/app.php on line 16
+[23-Apr-2025 01:34:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/app.escrow.icu/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/app.escrow.icu/config/app.php on line 16
+[28-Apr-2025 10:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/app.escrow.icu/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/app.escrow.icu/config/app.php on line 16
+[29-Apr-2025 17:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/app.escrow.icu/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/app.escrow.icu/config/app.php on line 16
+[06-May-2025 16:58:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/app.escrow.icu/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/app.escrow.icu/config/app.php on line 16
+[07-May-2025 05:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/escrow/app.escrow.icu/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/escrow/app.escrow.icu/config/app.php on line 16
